@@ -1,2 +1,5 @@
 # MilaCoin
- Basics of crypto currencies (in python)
+ - Project MilaCoin -
+ Basics of bitcoin transactions
+ Written in python
+ More information in folder "info" (PDF in german)
